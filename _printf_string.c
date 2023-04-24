@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * _print_string - prints s
- * @s: string
+ * _printf_string - prints s
+ * @args: string
  * Return: void
 */
 
