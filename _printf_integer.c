@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * _printf_integer - prints integer
  * @args: integer argument
