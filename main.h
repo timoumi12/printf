@@ -19,6 +19,8 @@ typedef struct specifier
 	int (*f)(va_list);
 } spec;
 
+int (*get_func(char x))(va_list);
+
 int _putchar(char c);
 
 int _printf(const char *format, ...);
