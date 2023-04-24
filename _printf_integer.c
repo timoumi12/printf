@@ -8,5 +8,5 @@
 
 int _printf_integer(va_list args)
 {
-	return (print_d(args));
+	return (_printf_decimal(args));
 }
